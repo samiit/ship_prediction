@@ -1,5 +1,7 @@
-<img src=".data/ship_title_image.png" width="400">
+<img src="./data/ship_title_image.png" width="400">
+
 # Ship type prediction
+
 - Distinguish the kind of large ship from images!
 - Identify between
     1) Aircraft carrier
